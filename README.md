@@ -39,9 +39,12 @@ Inverting amplifier:
 <img width="368" height="284" alt="image" src="https://github.com/user-attachments/assets/d2081f1e-57d1-4cd0-b59a-5ebb4115733d" />
 
 ## TABULATION:
+<img width="1600" height="1148" alt="WhatsApp Image 2026-06-13 at 09 20 54" src="https://github.com/user-attachments/assets/5a11dfce-6713-44ff-a673-cb5d62024ada" />
 
 
 ## GRAPH:
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-13 at 09 19 39" src="https://github.com/user-attachments/assets/fb0634c8-bfa3-42e3-bbb4-4ad90db7b244" />
 
 
 ## RESULT:
+Thus the design and construct a inverting amplifier was verified and done successfully.
